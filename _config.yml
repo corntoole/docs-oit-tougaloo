@@ -21,14 +21,6 @@ collections:
   notes:
     output: true
     layout: page
-#     output: true
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "notes"
-#     values:
-#       layout: page
 
 # Build settings
 markdown: kramdown
