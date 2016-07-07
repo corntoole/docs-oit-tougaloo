@@ -21,6 +21,7 @@ collections:
   notes:
     output: true
     layout: page
+    path: "/notes"
 
 # Build settings
 markdown: kramdown
