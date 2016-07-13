@@ -1,5 +1,6 @@
 ---
 title: Guidelines on Avoiding Social Engineering-based Security Attacks
+layout: page
 ---
 This communication was spurred by a recent event in which a goodwill gesture may have divulged a bit of personally identifiable information about someone we all care about. Our reality is that a lot information, which in many cases is part of the public record in various systems, can be combined to gain access private data. Each login, account or dossier we use or is used on our behalf is part of an attack surface. The following (or preceeding) is information toward to lessening the points of attack on our personal and collective information security.
 
